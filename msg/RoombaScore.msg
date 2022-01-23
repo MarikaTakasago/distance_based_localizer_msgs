@@ -1,5 +1,6 @@
 int32 name
 float64 score
+float64 dscore
 geometry_msgs/PoseStamped pose
-geometry_msgs/PointStamped neighbor
+geometry_msgs/PoseStamped neighbor
 bool isneighbor
